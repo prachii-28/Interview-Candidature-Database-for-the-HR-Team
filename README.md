@@ -1,2 +1,2 @@
 # Interview-Candidature-Database-for-the-HR-Team
-hello world
+The Project aims at creating a portal to maintain the records of candidates who have appeared for an interview.
